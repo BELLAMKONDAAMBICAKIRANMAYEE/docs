@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "name": "Pooja",
+      "salary": "668y8",
+      "gender": "Male",
+      "age": "55",
+      "specialization": "Kidney vghghgammudhi",
+      "id": 2
+    },
+    {
+      "name": "samaram",
+      "salary": "50000",
+      "gender": "Male",
+      "age": "55",
+      "specialization": "neurology",
+      "id": 3
+    }
+  ]
+ 
+}
